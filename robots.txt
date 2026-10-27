@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# ATENÇÃO: troque SEU-DOMINIO.com.br pelo endereço real do site (ver README)
+Sitemap: https://SEU-DOMINIO.com.br/sitemap.xml
