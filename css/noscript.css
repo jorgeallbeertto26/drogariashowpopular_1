@@ -1,0 +1,8 @@
+/* Carregado só quando o JavaScript está desativado: mantém o menu visível e utilizável. */
+.menu-toggle { display: none; }
+.nav { display: block; position: static; border: 0; padding: 0 0 1rem; }
+.site-header__bar { flex-wrap: wrap; }
+.nav ul { display: flex; flex-wrap: wrap; gap: .25rem .75rem; align-items: center; }
+.nav li a:not(.btn) { border: 0; padding: .4rem .3rem; }
+.nav .btn { width: auto; margin: 0; }
+#load-map { display: none; }
